@@ -1,72 +1,43 @@
 <!DOCTYPE HTML>
 <html>
     <title>CJ천지골드</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="stylesheet" href="cjstyle.css">
-    <link rel="stylesheet" href="productstyle.css">
-    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
 
-
-    <heder>
-        <a href="home.html"><img src="LOGO.png",alt=천지골드로고 width="200"></a>
-    </heder>
-
-    <body>
+    <header>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <link rel="stylesheet" href="cjstyle.css">
+        <script src="http://code.jquery.com/jquery-latest.min.js"></script>   
+        <link rel="stylesheet" href="productstyle.css">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.1/css/swiper.min.css">
         <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.5.1/js/swiper.min.js"></script>
-        <style type="text/css">
-            .swiper-container {
-                height:auto;
-                width:auto;
-                padding:auto;
-                border:5px solid #a39304;
-                border-radius:7px;
-                box-shadow:0 0 20px #a39304 inset;
-                margin: 10px;
-            }
-            .swiper-slide {
-                text-align:center;
-                display:flex; 
-                align-items:center; 
-                justify-content:center; 
+        
+    </header>
+    <script src="list.js">
 
-            }
-            .swiper-slide img {
-                box-shadow:0 0 5px #ceb902;
-            }
-            </style>
-            <nav>
-                <a href= "allproducts.html" id="here">모든제품</a>
-                <a href= "necklace.html">목걸이</a>
-                <a href= "bracelet.html">팔찌</a>
-            </nav>
-            <div class="swiper-container">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide"><img src="260A.jpg" alt="260detail" width="100%" height="auto" ></div>
-                    <div class="swiper-slide"><img src="260B.png" alt="260all"  width="100%" height="auto"></div>
-                </div>
-                <div class="swiper-button-next"></div>
-                <div class="swiper-button-prev"></div>
-            </div>    
-            <script>    
-                new Swiper('.swiper-container', {
-                autoHeight : true,
-        
-                loop : true,
-                pagination : { 
-                    el : '.swiper-pagination',
-                    clickable : true, 
-                },
-                navigation : { 
-                    nextEl : '.swiper-button-next', 
-                    prevEl : '.swiper-button-prev', 
-                },
-                });
-            </script>
-        
+    </script>
+    <body>
+        <a href="home.html"><img src="LOGO.png",alt=천지골드로고 width="200"></a>
+        <div class="searchbox">
+            <input type="text" name="item" id="item" placeholder="제품번호나 제품이름을 입력해주세요.">
+            <button type="button" onclick="searching();" style="font-size: 15px;">검색</button>
+        </div>
+        <br>
+        <nav>
+            <a href= "allproducts.html" id="here">모든제품</a>
+            <a href= "necklace.html">목걸이</a>
+            <a href= "bracelet.html">팔찌</a>
+        </nav>
+        <div class="swiper-container">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide"><img src="260A.jpg" alt="260detail" width="100%" height="auto" ></div>
+                <div class="swiper-slide"><img src="260B.png" alt="260all"  width="100%" height="auto"></div>
+            </div>
+            <div class="swiper-button-next"></div>
+            <div class="swiper-button-prev"></div>
+        </div>    
+        <script src="proscript.js"></script>
         <article>260</article>
-        <table style="margin-left:auto; margin-right:auto;" class="design">
+        <table class="design">
             <thead>
             <tr>
                 <th>크기</th>
@@ -77,25 +48,25 @@
             <tbody>
             <tr>
                 <th>극소</th>
-                    <td>42</td><td>2.0</td>
-                </tr>
-                <tr>
-                    <th>소소</th>
-                    <td>42</td><td>2.80</td>
-                </tr>
-                <tr>
-                    <th>소</th>
-                    <td>45</td><td>4.0</td>
-                </tr>
-                <tr>
-                    <th>중</th>
-                    <td>50</td><td>6.30</td>
-                </tr>
-                 <tr>
-                    <th>대</th>
-                    <td>50</td><td>10.0</td>
-                </tr>
-                </tbody>
+                <td>42</td><td>2.0</td>
+            </tr>
+            <tr>
+                <th>소소</th>
+                <td>42</td><td>2.80</td>
+            </tr>
+            <tr>
+                <th>소</th>
+                <td>45</td><td>4.0</td>
+            </tr>
+            <tr>
+                <th>중</th>
+                <td>50</td><td>6.30</td>
+            </tr>
+            <tr>
+                <th>대</th>
+                <td>50</td><td>10.0</td>
+            </tr>
+            </tbody>
             </table>
         </div>
 
