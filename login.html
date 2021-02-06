@@ -4,34 +4,36 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="stylesheet" href="cjstyle.css">
-    <script>
-       function login(){
-        var id=document.querySelector('#id');
-        var pw =document.querySelector('#pw');
-
-        if(id.value=="cjuser"){
-            if(pw.value=="6446253"){
-                location.href="home.html";
-            }
-            else {
-                alert("아이디나 비밀번호가 틀렸습니다.")
-                location.href="login.html";
-            }
-        }   
-        else {
-            alert("아이디나 비밀번호가 틀렸습니다.")
-            location.href=("login.html");
-        }
-        }
-    </script>
-
     <heder>
         <a href="login.html"><img src="LOGO.png",alt=천지골드로고 width="200"></a>
     </heder>
 <br>
     <body>  
-        <div><input type="text" name="id" id="id" placeholder="ID" class="txt1"><br></div>
-        <div><input type="password" name="pw" id="pw" placeholder="PW" class="txt1"><br></div>
-        <input type="button" value="로그인" onclick="login();" class="bt1">
+        <br>
+            <input type="text" id="id" placeholder="ID" class="txt1"><br>
+            <input type="password" id="pw" placeholder="PW" class="txt1"><br>
+            <button id="login" class="bt1">로그인</button><br>
+        <script>
+            const id=document.querySelector('#id');
+            const pw =document.querySelector('#pw');
+            const login=document.querySelector('#login');
+
+            login.addEventListener("click",function(e){
+                if(id.value=="cjuser"){
+                    if(pw.value=="6446253"){
+                        sessionStorage.setItem(id.value,pw.value);
+                        location.href="home.html";
+                }
+                else {
+                    alert("아이디나 비밀번호가 틀렸습니다.")
+                    location.href="login.html";
+                }
+            }   
+            else {
+                alert("아이디나 비밀번호가 틀렸습니다.")
+                location.href="login.html";
+            }
+            })
+        </script>
     </body>
 </html>
