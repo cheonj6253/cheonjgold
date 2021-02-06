@@ -1,33 +1,46 @@
 <!DOCTYPE HTML>
 <html>
     <title>CJ천지골드</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-    <link rel="stylesheet" href="cjstyle.css">
+    <heder>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <link rel="stylesheet" href="cjstyle.css">
+        <script src="logincheck.js"></script>
+    </heder>
     <style>
-        div{
-            margin:15px;
-            width:150px;
-            height:150px;
+        div.left{
+            margin:5px;
+            width:50%;
+            height:50%;
             float:left;
             text-align: center;
             font-weight: bold;
         }
     </style>
-    <heder>
-        <a href="home.html"><img src="LOGO.png",alt=천지골드로고 width="200"></a>
-    </heder>
-
     <body>
+        <a href="home.html"><img src="LOGO.png",alt=천지골드로고 width="30%"></a>
+        <div class="searchbox">
+            <input type="text" name="item" id="item" placeholder="제품번호나 제품이름을 입력해주세요.">
+            <button type="button" onclick="searching();">검색</button>
+        </div>
+        <a href="" class="out">로그아웃</a>
+        <br>
         <nav>
-            &nbsp;<a href= "allproducts.html">모든제품</a>&nbsp;
+            &nbsp;<a href= "allproducts.html" id="here">모든제품</a>&nbsp;
             <a href= "necklace.html">목걸이</a>&nbsp;
             <a href= "bracelet.html">팔찌</a>&nbsp;
-        </nav>
-        <div id="left"><a href="G260.HTML"><img src=260A.jpg width=150 height="140">260</a></div>
-        <div id="left"><a href="264">264</a></div>
-        <div id="left"><a href="87">87</a></div>
-        <div id="left"><a href="380">380</a></div>
+        </nav>  
+        <script>
+            logout.addEventListener("click",function(e){
+                sessionStorage.clear();
+                location.href=("login.html");
+            })
+        </script>
+
+        <div class="left"><a href="G260.HTML"><img src=260A.jpg width="100%"><br>260</a></div>
+        <div class="left"><a href="264">264</a></div>
+        <div class="left"><a href="87">87</a></div>
+        <div class="left"><a href="380">380</a></div>
         <p><a href="291">291</a></p>
         <p><a href="302">302</a></p>
         <p><a href="338">338</a></p>
