@@ -1,0 +1,41 @@
+<!DOCTYPE HTML>
+<html>
+    <title>CJ천지골드</title>
+    <heder>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <link rel="stylesheet" href="cjstyle.css">
+        <script src="logincheck.js"></script>
+        <link rel="stylesheet" href="productstyle.css">
+        <script src="list.js"></script>
+    </heder>
+    <style>
+        div.left{
+            margin:5px;
+            width:40%;
+            height:50%;
+            float:left;
+            text-align: center;
+            font-weight: bold;
+        }
+    </style>
+    <body>
+        <a href="home.html"><img src="LOGO.png",alt=천지골드로고 width="40%"></a>
+        <div class="searchbox">
+            <input type="text" name="item" id="item" placeholder="제품번호나 제품이름을 입력해주세요.">
+            <button type="button" onclick="searching();">검색</button>
+        </div>
+        <a href="#" onclick="logout();" class="out" >로그아웃</a>
+        <script src="logout.js"></script>
+        <br>
+        <nav>
+            &nbsp;<a href= "allproducts.html">모든제품</a>&nbsp;
+            <a href= "necklace.html">목걸이</a>&nbsp;
+            <a href= "bracelet.html">팔찌</a>&nbsp;
+            <a href= "medal.html"id="here">메달</a>&nbsp;
+        </nav>  
+        <div class="left"><a href="G김혜수M.HTML"><img src=김혜수MA.jpg width="100%"><br>김혜수M</a></div>
+        <div class="left"><a href="G향수메달.HTML"><img src=향수메달A.jpg width="100%"><br>향수메달</a></div>
+        <div class="left"><a href="G엘리M.HTML"><img src=엘리MA.jpg width="100%"><br>엘리M</a></div>
+    </body>
+</html>
