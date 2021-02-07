@@ -1,4 +1,5 @@
-     body{
+
+    body{
         text-align: center;
         margin: 0;
     }
@@ -45,24 +46,6 @@
         color:black;
         margin:0 auto;
     }
-    input{
-        font-size: 12px;
-        width:250px;
-        padding:10px;
-        border:0px;
-        outline:none;
-        float:left;
-     }
-     button{
-        font-size: 12x;
-        width: 50px;
-        height:100%;
-        border:0px;
-        background: #D6C100;
-        outline:none;
-        float: right;
-        color:white;
-     }
      a.out{
         float:right;
         color:#D6C100;
