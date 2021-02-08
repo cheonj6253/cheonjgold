@@ -1,229 +1,231 @@
 function searching(){
     var item=document.querySelector('#item');
 
-    if(item.value="G59"){location."G59.HTML";}
-    if(item.value="G71"){location."G71.HTML";}
-    if(item.value="G73"){location."G73.HTML";}
-    if(item.value="G76"){location."G76.HTML";}
-    if(item.value="G84"){location."G84.HTML";}
-    if(item.value="G86"){location."G86.HTML";}
-    if(item.value="G87"){location."G87.HTML";}
-    if(item.value="G89"){location."G89.HTML";}
-    if(item.value="G93"){location."G93.HTML";}
-    if(item.value="G94"){location."G94.HTML";}
-    if(item.value="G96"){location."G96.HTML";}
-    if(item.value="G101"){location."G101.HTML";}
-    if(item.value="G104"){location."G104.HTML";}
-    if(item.value="G118"){location."G118.HTML";}
-    if(item.value="G121"){location."G121.HTML";}
-    if(item.value="G125"){location."G125.HTML";}
-    if(item.value="G126"){location."G126.HTML";}
-    if(item.value="G129"){location."G129.HTML";}
-    if(item.value="G132"){location."G132.HTML";}
-    if(item.value="G137"){location."G137.HTML";}
-    if(item.value="G146"){location."G146.HTML";}
-    if(item.value="G167"){location."G167.HTML";}
-    if(item.value="G168"){location."G168.HTML";}
-    if(item.value="G177"){location."G177.HTML";}
-    if(item.value="G180"){location."G180.HTML";}
-    if(item.value="G183"){location."G183.HTML";}
-    if(item.value="G185"){location."G185.HTML";}
-    if(item.value="G187"){location."G187.HTML";}
-    if(item.value="G189"){location."G189.HTML";}
-    if(item.value="G194"){location."G194.HTML";}
-    if(item.value="G195"){location."G195.HTML";}
-    if(item.value="G201"){location."G201.HTML";}
-    if(item.value="G203"){location."G203.HTML";}
-    if(item.value="G205"){location."G205.HTML";}
-    if(item.value="G214"){location."G214.HTML";}
-    if(item.value="G215"){location."G215.HTML";}
-    if(item.value="G217"){location."G217.HTML";}
-    if(item.value="G380"){location."G380.HTML";}
-    if(item.value="G381"){location."G381.HTML";}
-    if(item.value="G382"){location."G382.HTML";}
-    if(item.value="G383"){location."G383.HTML";}
-    if(item.value="G384"){location."G384.HTML";}
-    if(item.value="G386"){location."G286.HTML";}
-    if(item.value="G387"){location."G387.HTML";}
-    if(item.value="G388"){location."G388.HTML";}
-    if(item.value="G389"){location."G389.HTML";}
-    if(item.value="G390"){location."G390.HTML";}
-    if(item.value="G392"){location."G392.HTML";}
-    if(item.value="G393"){location."G393.HTML";}
-    if(item.value="G394"){location."G394.HTML";}
-    if(item.value="G396"){location."G396.HTML";}
-    if(item.value="G397"){location."G397.HTML";}
-    if(item.value="G398"){location."G398.HTML";}
-    if(item.value="G399"){location."G399.HTML";}
-    if(item.value="G401"){location."G401.HTML";}
-    if(item.value="G402"){location."G402.HTML";}
-    if(item.value="G403"){location."G403.HTML";}
-    if(item.value="G405"){location."G405.HTML";}
-    if(item.value="G407"){location."G407.HTML";}
-    if(item.value="G408"){location."G408.HTML";}
-    if(item.value="G409"){location."G409.HTML";}
-    if(item.value="G410"){location."G410.HTML";}
-    if(item.value="G412"){location."G412.HTML";}
-    if(item.value="G413"){location."G413.HTML";}
-    if(item.value="G414"){location."G414.HTML";}
-    if(item.value="G415"){location."G415.HTML";}
-    if(item.value="G416"){location."G416.HTML";}
-    if(item.value="G417"){location."G417.HTML";}
-    if(item.value="G418"){location."G418.HTML";}
-    if(item.value="G419"){location."G419.HTML";}
-    if(item.value="G8464"){location."G8464.HTML";}
-    if(item.value="G반파이프"){location."G반파이프.HTML";}
-    if(item.value="G별"){location."G별.HTML";}
-    if(item.value="G사각휘가르"){location."G사각휘가르.HTML";}
-    if(item.value="G사다리육각"){location."G사다리육각.HTML";}
-    if(item.value="G상젤리"){location."G상젤리.HTML";}
-    if(item.value="G숫자체인"){location."G숫자체인.HTML";}
-    if(item.value="G신체인"){location."G신체인.HTML";}
-    if(item.value="GHC"){location."GHC.HTML";}
-    if(item.value="G엘리M"){location."G엘리M.HTML";}
-    if(item.value="G잠자리"){location."G잠자리.HTML";}
-    if(item.value="G잠할"){location."G잠할.HTML";}
-    if(item.value="G정육각"){location."G정육각.HTML";}
-    if(item.value="G정육컷"){location."G정육컷.HTML";}
-    if(item.value="G체인"){location."G체인.HTML";}
-    if(item.value="G354"){location."G354.HTML";}
-    if(item.value="G355"){location."G355.HTML";}
-    if(item.value="G356"){location."G356.HTML";}
-    if(item.value="G357"){location."G357.HTML";}
-    if(item.value="G359"){location."G359.HTML";}
-    if(item.value="G360"){location."G360.HTML";}
-    if(item.value="G361"){location."G361.HTML";}
-    if(item.value="G362"){location."G362.HTML";}
-    if(item.value="G363"){location."G363.HTML";}
-    if(item.value="G365"){location."G365.HTML";}
-    if(item.value="G368"){location."G368.HTML";}
-    if(item.value="G369"){location."G369.HTML";}
-    if(item.value="G370"){location."G370.HTML";}
-    if(item.value="G371"){location."G371.HTML";}
-    if(item.value="G373"){location."G373.HTML";}
-    if(item.value="G374"){location."G374.HTML";}
-    if(item.value="G375"){location."G375.HTML";}
-    if(item.value="G377"){location."G377.HTML";}
-    if(item.value="G378"){location."G378.HTML";}
-    if(item.value="G379"){location."G379.HTML";}
-    if(item.value="G판HC"){location."G판HC.HTML";}
-    if(item.value="G후지원"){location."G후지원.HTML";}
-    if(item.value="G186"){location."G186.HTML";}
-    if(item.value="G420"){location."G420.HTML";}
-    if(item.value="G421"){location."G421.HTML";}
-    if(item.value="G양면체인"){location."G양면체인.HTML";}
-    if(item.value="G향수메달"){location."G향수메달.HTML";}
-    if(item.value="G사발"){location."G사발.HTML";}
-    if(item.value="G육발"){location."G육발.HTML";}
-    if(item.value="G누드Q"){location."G누드Q.HTML";}
-    if(item.value="G422"){location."G422.HTML";}
-    if(item.value="G423"){location."G423.HTML";}
-    if(item.value="GA311"){location."GA311.HTML";}
-    if(item.value="GA30"){location."GA30.HTML";}
-    if(item.value="GA31"){location."GA31.HTML";}
-    if(item.value="GA36"){location."GA36.HTML";}
-    if(item.value="GA43"){location."GA43.HTML";}
-    if(item.value="GA44"){location."GA44.HTML";}
-    if(item.value="GA45"){location."GA45.HTML";}
-    if(item.value="GB할로"){location."GB할로.HTML";}
-    if(item.value="GD6"){location."GD6.HTML";}
-    if(item.value="GF200"){location."GF200.HTML";}
-    if(item.value="GF208"){location."GF208.HTML";}
-    if(item.value="GLOVE"){location."GLOVE.HTML";}
-    if(item.value="GS체인"){location."GS체인.HTML";}
-    if(item.value="G각HC"){location."G각HC.HTML";}
-    if(item.value="G고HC"){location."G고HC.HTML";}
-    if(item.value="G구찌"){location."G구찌.HTML";}
-    if(item.value="G금미사각"){location."G금미사각.HTML";}
-    if(item.value="G긴십자"){location."G긴십자.HTML";}
-    if(item.value="G김혜수M"){location."G김혜수M.HTML";}
-    if(item.value="G넓은체인"){location."G넓은체인.HTML";}
-    if(item.value="G농"){location."G농.HTML";}
-    if(item.value="G루이비통N"){location."G루이비통N.HTML";}
-    if(item.value="G만자"){location."G만자.HTML";}
-    if(item.value="G309"){location."G309.HTML";}
-    if(item.value="G310"){location."G310.HTML";}
-    if(item.value="G311"){location."G311.HTML";}
-    if(item.value="G312"){location."G312.HTML";}
-    if(item.value="G313"){location."G313.HTML";}
-    if(item.value="G314"){location."G314.HTML";}
-    if(item.value="G318"){location."G318.HTML";}
-    if(item.value="G321"){location."G321.HTML";}
-    if(item.value="G322"){location."G322.HTML";}
-    if(item.value="G324"){location."G324.HTML";}
-    if(item.value="G327"){location."G327.HTML";}
-    if(item.value="G328"){location."G328.HTML";}
-    if(item.value="G330"){location."G330.HTML";}
-    if(item.value="G336"){location."G336.HTML";}
-    if(item.value="G338"){location."G338.HTML";}
-    if(item.value="G339"){location."G339.HTML";}
-    if(item.value="G343"){location."G343.HTML";}
-    if(item.value="G345"){location."G345.HTML";}
-    if(item.value="G346"){location."G346.HTML";}
-    if(item.value="G349"){location."G349.HTML";}
-    if(item.value="G352"){location."G352.HTML";}
-    if(item.value="G353"){location."G353.HTML";}
-    if(item.value="G285-1"){location."G285-1.HTML";}
-    if(item.value="G285-2"){location."G285-2.HTML";}
-    if(item.value="G300"){location."G300.HTML";}
-    if(item.value="G303"){location."G303.HTML";}
-    if(item.value="G304"){location."G304.HTML";}
-    if(item.value="G311"){location."G311.HTML";}
-    if(item.value="G236"){location."G236.HTML";}
-    if(item.value="G242"){location."G242.HTML";}
-    if(item.value="G245"){location."G245.HTML";}
-    if(item.value="G246"){location."G246.HTML";}
-    if(item.value="G322"){location."G322.HTML";}
-    if(item.value="G333"){location."G333.HTML";}
-    if(item.value="G357"){location."G357.HTML";}
-    if(item.value="G380-1"){location."G380-1.HTML";}
-    if(item.value="G392"){location."G392.HTML";}
-    if(item.value="G393"){location."G393.HTML";}
-    if(item.value="G파이프"){location."G파이프.HTML";}
-    if(item.value="G파이프-1"){location."G파이프-1.HTML";}
-    if(item.value="G파이프-11"){location."G파이프-11.HTML";}
-    if(item.value="G파이프-3"){location."G파이프-3.HTML";}
-    if(item.value="G파이프-4"){location."G파이프-4.HTML";}
-    if(item.value="G파이프-5"){location."G파이프-5.HTML";}
-    if(item.value="G파이프-6"){location."G파이프-6.HTML";}
-    if(item.value="G파이프T자"){location."G파이프T자.HTML";}
-    if(item.value="G248"){location."G248.HTML";}
-    if(item.value="G250"){location."G250.HTML";}
-    if(item.value="G251"){location."G251.HTML";}
-    if(item.value="G253"){location."G253.HTML";}
-    if(item.value="G255"){location."G255.HTML";}
-    if(item.value="G235"){location."G235.HTML";}
-    if(item.value="G271"){location."G271.HTML";}
-    if(item.value="G256"){location."G256.HTML";}
-    if(item.value="G267"){location."G267.HTML";}
-    if(item.value="G260"){location."G260.HTML";}
-    if(item.value="G264"){location."G264.HTML";}
-    if(item.value="G265"){location."G265.HTML";}
-    if(item.value="G273"){location."G273.HTML";}
-    if(item.value="G275"){location."G275.HTML";}
-    if(item.value="G277"){location."G277.HTML";}
-    if(item.value="G278"){location."G278.HTML";}
-    if(item.value="G279"){location."G279.HTML";}
-    if(item.value="G284"){location."G284.HTML";}
-    if(item.value="G285"){location."G285.HTML";}
-    if(item.value="G287"){location."G287.HTML";}
-    if(item.value="G288"){location."G288.HTML";}
-    if(item.value="G289"){location."G289.HTML";}
-    if(item.value="G291"){location."G291.HTML";}
-    if(item.value="G292"){location."G292.HTML";}
-    if(item.value="G294"){location."G294.HTML";}
-    if(item.value="G295"){location."G295.HTML";}
-    if(item.value="G299"){location."G299.HTML";}
-    if(item.value="G301"){location."G301.HTML";}
-    if(item.value="G302"){location."G302.HTML";}
-    if(item.value="G303"){location."G303.HTML";}
-    if(item.value="G306"){location."G306.HTML";}
-    if(item.value="G307"){location."G307.HTML";}
-    if(item.value="G판체인"){location."G판체인.HTML";}
-    if(item.value="G203-2"){location."G203-2.HTML";}
-    if(item.value="G228"){location."G228.HTML";}
-    if(item.value="G229"){location."G229.HTML";}
-    if(item.value="G224"){location."G224.HTML";}
+    
+    if(item.value=="260"){location.href="G260.HTML";}
+    else if(item.value=="59"){location.href="G59.HTML";}
+    else if(item.value=="71"){location.href="G71.HTML";}
+    else if(item.value=="73"){location.href="G73.HTML";}
+    else if(item.value=="76"){location.href="G76.HTML";}
+    else if(item.value=="84"){location.href="G84.HTML";}
+    else if(item.value=="86"){location.href="G86.HTML";}
+    else if(item.value=="87"){location.href="G87.HTML";}
+    else if(item.value=="89"){location.href="G89.HTML";}
+    else if(item.value=="93"){location.href="G93.HTML";}
+    else if(item.value=="94"){location.href="G94.HTML";}
+    else if(item.value=="96"){location.href="G96.HTML";}
+    else if(item.value=="101"){location.href="G101.HTML";}
+    else if(item.value=="104"){location.href="G104.HTML";}
+    else if(item.value=="118"){location.href="G118.HTML";}
+    else if(item.value=="121"){location.href="G121.HTML";}
+    else if(item.value=="125"){location.href="G125.HTML";}
+    else if(item.value=="126"){location.href="G126.HTML";}
+    else if(item.value=="129"){location.href="G129.HTML";}
+    else if(item.value=="132"){location.href="G132.HTML";}
+    else if(item.value=="137"){location.href="G137.HTML";}
+    else if(item.value=="146"){location.href="G146.HTML";}
+    else if(item.value=="167"){location.href="G167.HTML";}
+    else if(item.value=="168"){location.href="G168.HTML";}
+    else if(item.value=="177"){location.href="G177.HTML";}
+    else if(item.value=="180"){location.href="G180.HTML";}
+    else if(item.value=="183"){location.href="G183.HTML";}
+    else if(item.value=="185"){location.href="G185.HTML";}
+    else if(item.value=="187"){location.href="G187.HTML";}
+    else if(item.value=="189"){location.href="G189.HTML";}
+    else if(item.value=="194"){location.href="G194.HTML";}
+    else if(item.value=="195"){location.href="G195.HTML";}
+    else if(item.value=="201"){location.href="G201.HTML";}
+    else if(item.value=="203"){location.href="G203.HTML";}
+    else if(item.value=="205"){location.href="G205.HTML";}
+    else if(item.value=="214"){location.href="G214.HTML";}
+    else if(item.value=="215"){location.href="G215.HTML";}
+    else if(item.value=="217"){location.href="G217.HTML";}
+    else if(item.value=="380"){location.href="G380.HTML";}
+    else if(item.value=="381"){location.href="G381.HTML";}
+    else if(item.value=="382"){location.href="G382.HTML";}
+    else if(item.value=="383"){location.href="G383.HTML";}
+    else if(item.value=="384"){location.href="G384.HTML";}
+    else if(item.value=="386"){location.href="G286.HTML";}
+    else if(item.value=="387"){location.href="G387.HTML";}
+    else if(item.value=="388"){location.href="G388.HTML";}
+    else if(item.value=="389"){location.href="G389.HTML";}
+    else if(item.value=="390"){location.href="G390.HTML";}
+    else if(item.value=="392"){location.href="G392.HTML";}
+    else if(item.value=="393"){location.href="G393.HTML";}
+    else if(item.value=="394"){location.href="G394.HTML";}
+    else if(item.value=="396"){location.href="G396.HTML";}
+    else if(item.value=="397"){location.href="G397.HTML";}
+    else if(item.value=="398"){location.href="G398.HTML";}
+    else if(item.value=="399"){location.href="G399.HTML";}
+    else if(item.value=="401"){location.href="G401.HTML";}
+    else if(item.value=="402"){location.href="G402.HTML";}
+    else if(item.value=="403"){location.href="G403.HTML";}
+    else if(item.value=="405"){location.href="G405.HTML";}
+    else if(item.value=="407"){location.href="G407.HTML";}
+    else if(item.value=="408"){location.href="G408.HTML";}
+    else if(item.value=="409"){location.href="G409.HTML";}
+    else if(item.value=="410"){location.href="G410.HTML";}
+    else if(item.value=="412"){location.href="G412.HTML";}
+    else if(item.value=="413"){location.href="G413.HTML";}
+    else if(item.value=="414"){location.href="G414.HTML";}
+    else if(item.value=="415"){location.href="G415.HTML";}
+    else if(item.value=="416"){location.href="G416.HTML";}
+    else if(item.value=="417"){location.href="G417.HTML";}
+    else if(item.value=="418"){location.href="G418.HTML";}
+    else if(item.value=="419"){location.href="G419.HTML";}
+    else if(item.value=="8464"){location.href="G8464.HTML";}
+    else if(item.value=="반파이프"){location.href="G반파이프.HTML";}
+    else if(item.value=="별"){location.href="G별.HTML";}
+    else if(item.value=="사각휘가르"){location.href="G사각휘가르.HTML";}
+    else if(item.value=="사다리육각"){location.href="G사다리육각.HTML";}
+    else if(item.value=="상젤리"){location.href="G상젤리.HTML";}
+    else if(item.value=="숫자체인"){location.href="G숫자체인.HTML";}
+    else if(item.value=="신체인"){location.href="G신체인.HTML";}
+    else if(item.value=="HC"){location.href="GHC.HTML";}
+    else if(item.value=="엘리M"){location.href="G엘리M.HTML";}
+    else if(item.value=="잠자리"){location.href="G잠자리.HTML";}
+    else if(item.value=="잠할"){location.href="G잠할.HTML";}
+    else if(item.value=="정육각"){location.href="G정육각.HTML";}
+    else if(item.value=="정육컷"){location.href="G정육컷.HTML";}
+    else if(item.value=="체인"){location.href="G체인.HTML";}
+    else if(item.value=="354"){location.href="G354.HTML";}
+    else if(item.value=="355"){location.href="G355.HTML";}
+    else if(item.value=="356"){location.href="G356.HTML";}
+    else if(item.value=="357"){location.href="G357.HTML";}
+    else if(item.value=="359"){location.href="G359.HTML";}
+    else if(item.value=="360"){location.href="G360.HTML";}
+    else if(item.value=="361"){location.href="G361.HTML";}
+    else if(item.value=="362"){location.href="G362.HTML";}
+    else if(item.value=="363"){location.href="G363.HTML";}
+    else if(item.value=="365"){location.href="G365.HTML";}
+    else if(item.value=="368"){location.href="G368.HTML";}
+    else if(item.value=="369"){location.href="G369.HTML";}
+    else if(item.value=="370"){location.href="G370.HTML";}
+    else if(item.value=="371"){location.href="G371.HTML";}
+    else if(item.value=="373"){location.href="G373.HTML";}
+    else if(item.value=="374"){location.href="G374.HTML";}
+    else if(item.value=="375"){location.href="G375.HTML";}
+    else if(item.value=="377"){location.href="G377.HTML";}
+    else if(item.value=="378"){location.href="G378.HTML";}
+    else if(item.value=="379"){location.href="G379.HTML";}
+    else if(item.value=="판HC"){location.href="G판HC.HTML";}
+    else if(item.value=="후지원"){location.href="G후지원.HTML";}
+    else if(item.value=="186"){location.href="G186.HTML";}
+    else if(item.value=="420"){location.href="G420.HTML";}
+    else if(item.value=="421"){location.href="G421.HTML";}
+    else if(item.value=="양면체인"){location.href="G양면체인.HTML";}
+    else if(item.value=="향수메달"){location.href="G향수메달.HTML";}
+    else if(item.value=="사발"){location.href="G사발.HTML";}
+    else if(item.value=="육발"){location.href="G육발.HTML";}
+    else if(item.value=="누드Q"){location.href="G누드Q.HTML";}
+    else if(item.value=="422"){location.href="G422.HTML";}
+    else if(item.value=="423"){location.href="G423.HTML";}
+    else if(item.value=="A311"){location.href="GA311.HTML";}
+    else if(item.value=="A30"){location.href="GA30.HTML";}
+    else if(item.value=="A31"){location.href="GA31.HTML";}
+    else if(item.value=="A36"){location.href="GA36.HTML";}
+    else if(item.value=="A43"){location.href="GA43.HTML";}
+    else if(item.value=="A44"){location.href="GA44.HTML";}
+    else if(item.value=="A45"){location.href="GA45.HTML";}
+    else if(item.value=="B할로"){location.href="GB할로.HTML";}
+    else if(item.value=="D6"){location.href="GD6.HTML";}
+    else if(item.value=="F200"){location.href="GF200.HTML";}
+    else if(item.value=="F208"){location.href="GF208.HTML";}
+    else if(item.value=="LOVE"){location.href="GLOVE.HTML";}
+    else if(item.value=="S체인"){location.href="GS체인.HTML";}
+    else if(item.value=="각HC"){location.href="G각HC.HTML";}
+    else if(item.value=="고HC"){location.href="G고HC.HTML";}
+    else if(item.value=="구찌"){location.href="G구찌.HTML";}
+    else if(item.value=="금미사각"){location.href="G금미사각.HTML";}
+    else if(item.value=="긴십자"){location.href="G긴십자.HTML";}
+    else if(item.value=="김혜수M"){location.href="G김혜수M.HTML";}
+    else if(item.value=="넓은체인"){location.href="G넓은체인.HTML";}
+    else if(item.value=="농"){location.href="G농.HTML";}
+    else if(item.value=="루이비통N"){location.href="G루이비통N.HTML";}
+    else if(item.value=="만자"){location.href="G만자.HTML";}
+    else if(item.value=="309"){location.href="G309.HTML";}
+    else if(item.value=="310"){location.href="G310.HTML";}
+    else if(item.value=="311"){location.href="G311.HTML";}
+    else if(item.value=="312"){location.href="G312.HTML";}
+    else if(item.value=="313"){location.href="G313.HTML";}
+    else if(item.value=="314"){location.href="G314.HTML";}
+    else if(item.value=="318"){location.href="G318.HTML";}
+    else if(item.value=="321"){location.href="G321.HTML";}
+    else if(item.value=="322"){location.href="G322.HTML";}
+    else if(item.value=="324"){location.href="G324.HTML";}
+    else if(item.value=="327"){location.href="G327.HTML";}
+    else if(item.value=="328"){location.href="G328.HTML";}
+    else if(item.value=="330"){location.href="G330.HTML";}
+    else if(item.value=="336"){location.href="G336.HTML";}
+    else if(item.value=="338"){location.href="G338.HTML";}
+    else if(item.value=="339"){location.href="G339.HTML";}
+    else if(item.value=="343"){location.href="G343.HTML";}
+    else if(item.value=="345"){location.href="G345.HTML";}
+    else if(item.value=="346"){location.href="G346.HTML";}
+    else if(item.value=="349"){location.href="G349.HTML";}
+    else if(item.value=="352"){location.href="G352.HTML";}
+    else if(item.value=="353"){location.href="G353.HTML";}
+    else if(item.value=="285-1"){location.href="G285-1.HTML";}
+    else if(item.value=="285-2"){location.href="G285-2.HTML";}
+    else if(item.value=="300"){location.href="G300.HTML";}
+    else if(item.value=="303"){location.href="G303.HTML";}
+    else if(item.value=="304"){location.href="G304.HTML";}
+    else if(item.value=="311"){location.href="G311.HTML";}
+    else if(item.value=="236"){location.href="G236.HTML";}
+    else if(item.value=="242"){location.href="G242.HTML";}
+    else if(item.value=="245"){location.href="G245.HTML";}
+    else if(item.value=="246"){location.href="G246.HTML";}
+    else if(item.value=="322"){location.href="G322.HTML";}
+    else if(item.value=="333"){location.href="G333.HTML";}
+    else if(item.value=="357"){location.href="G357.HTML";}
+    else if(item.value=="380-1"){location.href="G380-1.HTML";}
+    else if(item.value=="392"){location.href="G392.HTML";}
+    else if(item.value=="393"){location.href="G393.HTML";}
+    else if(item.value=="파이프"){location.href="G파이프.HTML";}
+    else if(item.value=="파이프-1"){location.href="G파이프-1.HTML";}
+    else if(item.value=="파이프-11"){location.href="G파이프-11.HTML";}
+    else if(item.value=="파이프-3"){location.href="G파이프-3.HTML";}
+    else if(item.value=="파이프-4"){location.href="G파이프-4.HTML";}
+    else if(item.value=="파이프-5"){location.href="G파이프-5.HTML";}
+    else if(item.value=="파이프-6"){location.href="G파이프-6.HTML";}
+    else if(item.value=="파이프T자"){location.href="G파이프T자.HTML";}
+    else if(item.value=="248"){location.href="G248.HTML";}
+    else if(item.value=="250"){location.href="G250.HTML";}
+    else if(item.value=="251"){location.href="G251.HTML";}
+    else if(item.value=="253"){location.href="G253.HTML";}
+    else if(item.value=="255"){location.href="G255.HTML";}
+    else if(item.value=="235"){location.href="G235.HTML";}
+    else if(item.value=="271"){location.href="G271.HTML";}
+    else if(item.value=="256"){location.href="G256.HTML";}
+    else if(item.value=="267"){location.href="G267.HTML";}
+    else if(item.value=="264"){location.href="G264.HTML";}
+    else if(item.value=="265"){location.href="G265.HTML";}
+    else if(item.value=="273"){location.href="G273.HTML";}
+    else if(item.value=="275"){location.href="G275.HTML";}
+    else if(item.value=="277"){location.href="G277.HTML";}
+    else if(item.value=="278"){location.href="G278.HTML";}
+    else if(item.value=="279"){location.href="G279.HTML";}
+    else if(item.value=="284"){location.href="G284.HTML";}
+    else if(item.value=="285"){location.href="G285.HTML";}
+    else if(item.value=="287"){location.href="G287.HTML";}
+    else if(item.value=="288"){location.href="G288.HTML";}
+    else if(item.value=="289"){location.href="G289.HTML";}
+    else if(item.value=="291"){location.href="G291.HTML";}
+    else if(item.value=="292"){location.href="G292.HTML";}
+    else if(item.value=="294"){location.href="G294.HTML";}
+    else if(item.value=="295"){location.href="G295.HTML";}
+    else if(item.value=="299"){location.href="G299.HTML";}
+    else if(item.value=="301"){location.href="G301.HTML";}
+    else if(item.value=="302"){location.href="G302.HTML";}
+    else if(item.value=="303"){location.href="G303.HTML";}
+    else if(item.value=="306"){location.href="G306.HTML";}
+    else if(item.value=="307"){location.href="G307.HTML";}
+    else if(item.value=="판체인"){location.href="G판체인.HTML";}
+    else if(item.value=="203-2"){location.href="G203-2.HTML";}
+    else if(item.value=="228"){location.href="G228.HTML";}
+    else if(item.value=="229"){location.href="G229.HTML";}
+    else if(item.value=="224"){location.href="G224.HTML";}
+
 
     else{
         alert("등록되지않았거나 없는 제품입니다.")
