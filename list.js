@@ -2,10 +2,10 @@ function searching(){
     var item=document.querySelector('#item');
 
     
-    if(item.value=="260"){location.href="G260.HTML"; item.value==0;}
-    else if(item.value=="59"){location.href="G59.HTML";item.value==0;}
-    else if(item.value=="71"){location.href="G71.HTML";item.value==0;}
-    else if(item.value=="73"){location.href="G73.HTML";item.value==0;}
+    if(item.value=="260"){location.href="G260.HTML";}
+    else if(item.value=="59"){location.href="G59.HTML";}
+    else if(item.value=="71"){location.href="G71.HTML";}
+    else if(item.value=="73"){location.href="G73.HTML";}
     else if(item.value=="76"){location.href="G76.HTML";}
     else if(item.value=="84"){location.href="G84.HTML";}
     else if(item.value=="86"){location.href="G86.HTML";}
