@@ -6,14 +6,14 @@ function searching(){
     else if(item.value=="59"){location.href="G59.HTML";item.value==0;}
     else if(item.value=="71"){location.href="G71.HTML";item.value==0;}
     else if(item.value=="73"){location.href="G73.HTML";item.value==0;}
-    else if(item.value=="76"){location.href="G76.HTML";item.value==0;
-    else if(item.value=="84"){location.href="G84.HTML";item.value==0;
-    else if(item.value=="86"){location.href="G86.HTML";item.value==0;
-    else if(item.value=="87"){location.href="G87.HTML";item.value==0;
-    else if(item.value=="89"){location.href="G89.HTML";item.value==0;
-    else if(item.value=="93"){location.href="G93.HTML";item.value==0;
-    else if(item.value=="94"){location.href="G94.HTML";item.value==0;
-    else if(item.value=="96"){location.href="G96.HTML";item.value==0;
+    else if(item.value=="76"){location.href="G76.HTML";}
+    else if(item.value=="84"){location.href="G84.HTML";}
+    else if(item.value=="86"){location.href="G86.HTML";}
+    else if(item.value=="87"){location.href="G87.HTML";}
+    else if(item.value=="89"){location.href="G89.HTML";}
+    else if(item.value=="93"){location.href="G93.HTML";}
+    else if(item.value=="94"){location.href="G94.HTML";}
+    else if(item.value=="96"){location.href="G96.HTML";}
     else if(item.value=="101"){location.href="G101.HTML";}
     else if(item.value=="104"){location.href="G104.HTML";}
     else if(item.value=="118"){location.href="G118.HTML";}
