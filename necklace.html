@@ -9,7 +9,18 @@
         <link rel="stylesheet" href="productstyle.css">
         <script src="list.js"></script>
     </heder>
-    <style>
+
+    </style>
+    <body>
+        <a href="home.html"><img src="LOGO.png",alt=천지골드로고 width="40%"></a>
+        <div class="searchbox">
+            <input type="text" name="item" id="item" placeholder="제품번호나 제품이름을 입력해주세요.">
+            <button type="button" onclick="searching();">검색</button>
+        </div>
+        <a href="#" onclick="logout();" class="out" >로그아웃</a>
+        <script src="logout.js"></script>
+        <br>
+        <style>
         div.left{
             margin:0 auto;
             padding: 10px 10px;
@@ -23,17 +34,6 @@
             width:100%;
             height:90%;
         }
-    </style>
-    <body>
-        <a href="home.html"><img src="LOGO.png",alt=천지골드로고 width="40%"></a>
-        <div class="searchbox">
-            <input type="text" name="item" id="item" placeholder="제품번호나 제품이름을 입력해주세요.">
-            <button type="button" onclick="searching();">검색</button>
-        </div>
-        <a href="#" onclick="logout();" class="out" >로그아웃</a>
-        <script src="logout.js"></script>
-        <br>
-
         <nav>
             &nbsp;<a href= "allproducts.html">모든제품</a>&nbsp;
             <a href= "necklace.html" id="here">목걸이</a>&nbsp;
