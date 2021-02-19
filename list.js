@@ -29,7 +29,9 @@ function searching(){
     else if(item.value=="177"){location.href="G177.HTML";}
     else if(item.value=="180"){location.href="G180.HTML";}
     else if(item.value=="183"){location.href="G183.HTML";}
+    else if(item.value=="183각할로"){location.href="G183각할로.HTML";}
     else if(item.value=="185"){location.href="G185.HTML";}
+    else if(item.value=="186"){location.href="G186.HTML";}
     else if(item.value=="187"){location.href="G187.HTML";}
     else if(item.value=="189"){location.href="G189.HTML";}
     else if(item.value=="194"){location.href="G194.HTML";}
@@ -64,6 +66,7 @@ function searching(){
     else if(item.value=="407"){location.href="G407.HTML";}
     else if(item.value=="408"){location.href="G408.HTML";}
     else if(item.value=="409"){location.href="G409.HTML";}
+    else if(item.value=="400"){location.href="G400.HTML";}
     else if(item.value=="410"){location.href="G410.HTML";}
     else if(item.value=="412"){location.href="G412.HTML";}
     else if(item.value=="413"){location.href="G413.HTML";}
@@ -108,6 +111,7 @@ function searching(){
     else if(item.value=="377"){location.href="G377.HTML";}
     else if(item.value=="378"){location.href="G378.HTML";}
     else if(item.value=="379"){location.href="G379.HTML";}
+    else if(item.value=="305"){location.href="G305.HTML";}
     else if(item.value=="판HC"){location.href="G판HC.HTML";}
     else if(item.value=="후지원"){location.href="G후지원.HTML";}
     else if(item.value=="186"){location.href="G186.HTML";}
@@ -120,13 +124,27 @@ function searching(){
     else if(item.value=="누드Q"){location.href="G누드Q.HTML";}
     else if(item.value=="422"){location.href="G422.HTML";}
     else if(item.value=="423"){location.href="G423.HTML";}
+    else if(item.value=="424"){location.href="G424.HTML";}
+    else if(item.value=="425"){location.href="G425.HTML";}
+    else if(item.value=="426"){location.href="G426.HTML";}
     else if(item.value=="A311"){location.href="GA311.HTML";}
+    else if(item.value=="A322"){location.href="GA322.HTML";}
+    else if(item.value=="A331"){location.href="GA331.HTML";}
     else if(item.value=="A30"){location.href="GA30.HTML";}
     else if(item.value=="A31"){location.href="GA31.HTML";}
     else if(item.value=="A36"){location.href="GA36.HTML";}
     else if(item.value=="A43"){location.href="GA43.HTML";}
     else if(item.value=="A44"){location.href="GA44.HTML";}
+    else if(item.value=="A39"){location.href="GA39.HTML";}
+    else if(item.value=="A43"){location.href="GA43.HTML";}
+    else if(item.value=="A46"){location.href="GA46.HTML";}
+    else if(item.value=="A8"){location.href="GA8.HTML";}
+    else if(item.value=="A40"){location.href="GA40HTML";}
+    else if(item.value=="A42"){location.href="GA42.HTML";}
+    else if(item.value=="A35"){location.href="GA35.HTML";}
+    else if(item.value=="A37"){location.href="GA37.HTML";}
     else if(item.value=="A45"){location.href="GA45.HTML";}
+    else if(item.value=="A38"){location.href="GA38.HTML";}
     else if(item.value=="B할로"){location.href="GB할로.HTML";}
     else if(item.value=="D6"){location.href="GD6.HTML";}
     else if(item.value=="F200"){location.href="GF200.HTML";}
@@ -136,6 +154,7 @@ function searching(){
     else if(item.value=="각HC"){location.href="G각HC.HTML";}
     else if(item.value=="고HC"){location.href="G고HC.HTML";}
     else if(item.value=="구찌"){location.href="G구찌.HTML";}
+    else if(item.value=="구찌B"){location.href="G구찌B.HTML";}
     else if(item.value=="금미사각"){location.href="G금미사각.HTML";}
     else if(item.value=="긴십자"){location.href="G긴십자.HTML";}
     else if(item.value=="김혜수M"){location.href="G김혜수M.HTML";}
@@ -162,6 +181,7 @@ function searching(){
     else if(item.value=="343"){location.href="G343.HTML";}
     else if(item.value=="345"){location.href="G345.HTML";}
     else if(item.value=="346"){location.href="G346.HTML";}
+    else if(item.value=="348"){location.href="G348.HTML";}
     else if(item.value=="349"){location.href="G349.HTML";}
     else if(item.value=="352"){location.href="G352.HTML";}
     else if(item.value=="353"){location.href="G353.HTML";}
@@ -177,8 +197,10 @@ function searching(){
     else if(item.value=="246"){location.href="G246.HTML";}
     else if(item.value=="322"){location.href="G322.HTML";}
     else if(item.value=="333"){location.href="G333.HTML";}
+    
     else if(item.value=="357"){location.href="G357.HTML";}
     else if(item.value=="380-1"){location.href="G380-1.HTML";}
+    else if(item.value=="391"){location.href="G391.HTML";}
     else if(item.value=="392"){location.href="G392.HTML";}
     else if(item.value=="393"){location.href="G393.HTML";}
     else if(item.value=="파이프"){location.href="G파이프.HTML";}
@@ -221,10 +243,11 @@ function searching(){
     else if(item.value=="306"){location.href="G306.HTML";}
     else if(item.value=="307"){location.href="G307.HTML";}
     else if(item.value=="판체인"){location.href="G판체인.HTML";}
-    else if(item.value=="203-2"){location.href="G203-2.HTML";}
+    else if(item.value=="203-3"){location.href="G203-3.HTML";}
     else if(item.value=="228"){location.href="G228.HTML";}
     else if(item.value=="229"){location.href="G229.HTML";}
     else if(item.value=="224"){location.href="G224.HTML";}
+    else if(item.value=="297"){location.href="G297.HTML";}
 
 
     else{
