@@ -248,6 +248,10 @@ function searching(){
     else if(item.value=="229"){location.href="G229.HTML";}
     else if(item.value=="224"){location.href="G224.HTML";}
     else if(item.value=="297"){location.href="G297.HTML";}
+    else if(item.value=="433"){location.href="G433.HTML";}
+    else if(item.value=="430"){location.href="G430.HTML";}
+    else if(item.value=="431"){location.href="G431.HTML";}
+    else if(item.value=="432"){location.href="G432.HTML";}
 
 
     else{
