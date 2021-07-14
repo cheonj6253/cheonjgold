@@ -14,9 +14,10 @@
     <body>
         <a href="home.html"><img src="LOGO.png",alt=천지골드로고 width="40%"></a>
         <div class="searchbox">
-            <input type="text" name="item" id="item" placeholder="제품번호나 제품이름을 입력해주세요.">
+            <input type="text" name="item" id="item" placeholder="제품번호나 제품이름을 입력해주세요." 
+            onkeypress="if( event.keyCode == 13 ){searching();}"/>
+            <button type="button" onclick="searching();">검색</button>
         </div>
-        <script src="find.js"></script> 
         <br>
         <nav>
             &nbsp;<a href= "allproducts.html">모든제품</a>&nbsp;
