@@ -77,6 +77,7 @@ function searching(){
     else if(item.value=="418"){location.href="G418.HTML";}
     else if(item.value=="419"){location.href="G419.HTML";}
     else if(item.value=="8464"){location.href="G8464.HTML";}
+    else if(item.value=="435"){location.href="G435.HTML";}
     else if(item.value=="반파이프"){location.href="G반파이프.HTML";}
     else if(item.value=="별"){location.href="G별.HTML";}
     else if(item.value=="사각휘가르"){location.href="G사각휘가르.HTML";}
