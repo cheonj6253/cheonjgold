@@ -26,6 +26,7 @@ function searching(){
     else if(item.value=="146"){location.href="G146.HTML";}
     else if(item.value=="167"){location.href="G167.HTML";}
     else if(item.value=="168"){location.href="G168.HTML";}
+    else if(item.value=="436"){location.href="G436.HTML";}
     else if(item.value=="177"){location.href="G177.HTML";}
     else if(item.value=="180"){location.href="G180.HTML";}
     else if(item.value=="183"){location.href="G183.HTML";}
