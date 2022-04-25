@@ -110,6 +110,14 @@ function searching(){
     else if(item.value=="373"){location.href="G373.HTML";}
     else if(item.value=="374"){location.href="G374.HTML";}
     else if(item.value=="375"){location.href="G375.HTML";}
+    else if(item.value=="453"){location.href="G453.HTML";}
+    else if(item.value=="454"){location.href="G454.HTML";}
+    else if(item.value=="455"){location.href="G455.HTML";}
+    else if(item.value=="456"){location.href="G456.HTML";}
+    else if(item.value=="458"){location.href="G458.HTML";}
+    else if(item.value=="459"){location.href="G459.HTML";}
+    else if(item.value=="460"){location.href="G460.HTML";}
+    else if(item.value=="김혜수M"){location.href="G김혜수M.HTML";}
     else if(item.value=="377"){location.href="G377.HTML";}
     else if(item.value=="378"){location.href="G378.HTML";}
     else if(item.value=="379"){location.href="G379.HTML";}
@@ -199,7 +207,6 @@ function searching(){
     else if(item.value=="246"){location.href="G246.HTML";}
     else if(item.value=="322"){location.href="G322.HTML";}
     else if(item.value=="333"){location.href="G333.HTML";}
-    
     else if(item.value=="357"){location.href="G357.HTML";}
     else if(item.value=="380-1"){location.href="G380-1.HTML";}
     else if(item.value=="391"){location.href="G391.HTML";}
