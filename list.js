@@ -3,7 +3,27 @@ function searching(){
 
     
     if(item.value=="260"){location.href="G260.HTML";}
-    else if(item.value=="59"){location.href="G59.HTML";}
+    else if(item.value=="59"){location.href="G59.HTML";} 
+    else if(item.value=="438"){location.href="G438.HTML";}
+    else if(item.value=="439"){location.href="G439.HTML";}
+    else if(item.value=="440"){location.href="G440.HTML";}
+    else if(item.value=="441"){location.href="G441.HTML";}
+    else if(item.value=="442"){location.href="G442.HTML";}
+    else if(item.value=="444"){location.href="G444.HTML";}
+    else if(item.value=="445"){location.href="G445.HTML";}
+    else if(item.value=="446"){location.href="G446.HTML";}
+    else if(item.value=="449"){location.href="G449.HTML";}
+    else if(item.value=="450"){location.href="G450.HTML";}
+    else if(item.value=="451"){location.href="G451.HTML";}
+    else if(item.value=="판체인샤넬"){location.href="G판체인샤넬.HTML";}
+    else if(item.value=="F73"){location.href="GF73.HTML";}
+    else if(item.value=="F106"){location.href="GF106.HTML";}    
+    else if(item.value=="F201"){location.href="GF201.HTML";}
+    else if(item.value=="F203"){location.href="GF203.HTML";}
+    else if(item.value=="F207"){location.href="GF207.HTML";}
+    else if(item.value=="F107"){location.href="GF107.HTML";}
+    else if(item.value=="285-4"){location.href="G285-4.HTML";}
+    else if(item.value=="A45"){location.href="GA45.HTML";} 
     else if(item.value=="71"){location.href="G71.HTML";}
     else if(item.value=="73"){location.href="G73.HTML";}
     else if(item.value=="76"){location.href="G76.HTML";}
